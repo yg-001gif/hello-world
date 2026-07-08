@@ -2,11 +2,27 @@
 此存储库用于 GitHub 流
 ## change history
 1# add first change
-### reson
-2nd reason to edit for more explrer
+### reason
+2nd reason to edit for more exploring  
 **bold text**
-> blockquote
-code
-  a=2
-  print(a)
-  b=3
+
+  
+```python
+    a=2  
+    print(a)  
+    b=3
+```
+```html
+    <html>  
+      <head>  
+      kdeow  
+      </head>  
+    </html>
+```   
+
+hello world!!
+
+
+
+
+
