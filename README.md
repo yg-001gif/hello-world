@@ -6,3 +6,7 @@
 2nd reason to edit for more explrer
 **bold text**
 > blockquote
+code
+> a=2
+> print(a)
+> b=3
